@@ -4,10 +4,11 @@
 
 {
     "name": "Currency Rate Update: TransferWise.com",
-    "version": "13.0.1.0.0",
+    "version": "13.0.1.0.1",
     "category": "Financial Management/Configuration",
     "summary": "Update exchange rates using TransferWise.com",
     "author": "CorporateHub, " "Odoo Community Association (OCA)",
+    "website": "https://github.com/OCA/currency",
     "license": "AGPL-3",
     "installable": True,
     "application": False,
